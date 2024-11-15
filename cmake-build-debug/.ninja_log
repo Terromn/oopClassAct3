@@ -1,0 +1,9 @@
+# ninja log v6
+4	949	1731651330578941372	CMakeFiles/newBoringAssignment.dir/libraryItem/libraryItem.cpp.o	86555bee410ec1b8
+2	947	1731651330576935710	CMakeFiles/newBoringAssignment.dir/main.cpp.o	5672673a16c8924b
+5	949	1731651330579688245	CMakeFiles/newBoringAssignment.dir/items/journal/journal.cpp.o	2f2b76b766ffd13d
+5	944	1731651330579293954	CMakeFiles/newBoringAssignment.dir/items/book/book.cpp.o	7dc6aa536943a54e
+1364	3056	1731651331938307321	newBoringAssignment	a6f834f18fe47859
+6	951	1731651330580774909	CMakeFiles/newBoringAssignment.dir/member/member.cpp.o	6f55bf6874b4f46b
+5	950	1731651330580152994	CMakeFiles/newBoringAssignment.dir/items/dvd/dvd.cpp.o	8e3baf96bc527019
+946	1364	1731651331520555160	CMakeFiles/newBoringAssignment.dir/librarySystem/librarySystem.cpp.o	9b8f427a6d6d1b88

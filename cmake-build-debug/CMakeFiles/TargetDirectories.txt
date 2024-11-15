@@ -1,0 +1,3 @@
+/Users/terromn/Documents/Coding/Tec Proyects/Programacion Orientada A Objetos/oopBasicAplication/cmake-build-debug/CMakeFiles/newBoringAssignment.dir
+/Users/terromn/Documents/Coding/Tec Proyects/Programacion Orientada A Objetos/oopBasicAplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/terromn/Documents/Coding/Tec Proyects/Programacion Orientada A Objetos/oopBasicAplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
